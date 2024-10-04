@@ -80,9 +80,9 @@ CONNECTIONS_LIMIT=${max_whats}
 CLOSED_SEND_BY_ME=true
 
 MAIL_HOST="smtp.hostinger.com"
-MAIL_USER="contato@seusite.com"
-MAIL_PASS="senha"
-MAIL_FROM="Recuperar Senha <contato@seusite.com>"
+MAIL_USER="suporte@virtuacrm.com"
+MAIL_PASS="Suporte@virtua0"
+MAIL_FROM="Recuperar Senha <suporte@virtuacrm.com>"
 MAIL_PORT="465"
 
 [-]EOF
